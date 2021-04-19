@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<server>
+
+<Config 
+    configName="SkyServerConfig"
+    packageName="null"
+    filePath="/storage/emulated/0/Android/data/com.skyworth.smallclient/files/skyworth/SkyServerConfig.xml"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyServerConfig.xml"
+    updateMode="auto"
+    versionCode="1.0"
+></Config>
+
+<Config 
+    configName="SkySmallClient"
+    packageName="com.skyworth.smallclient"
+    filePath="/storage/emulated/0/Android/data/com.skyworth.smallclient/files/skyworth/SkySmallClient.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkySmallClient.apk"
+    updateMode="manual"
+    versionCode="1.0"
+></Config>
+
+<Config 
+    configName="SkySuperService"
+    packageName="com.skyworth.superservice"
+    filePath="/storage/emulated/0/Android/data/com.skyworth.superservice/files/skyworth/SkySuperService.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService.apk"
+    updateMode="manual"
+    versionCode="1.0"
+></Config>
+
+</server>
