@@ -8,6 +8,7 @@
     filePath="/storage/emulated/0/Android/data/com.skyworth.smallclient/files/skyworth/SkyServerConfig.xml"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkyServerConfig.xml"
     updateMode="auto"
+	launchMode="manual"
     versionCode="1.0"
 ></Config>
 
@@ -17,6 +18,7 @@
     filePath="/storage/emulated/0/Android/data/com.skyworth.smallclient/files/skyworth/SkySmallClient.apk"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySmallClient.apk"
     updateMode="manual"
+	launchMode="manual"
     versionCode="1.0"
 ></Config>
 
@@ -24,8 +26,9 @@
     configName="SkySuperService"
     packageName="com.skyworth.superservice"
     filePath="/storage/emulated/0/Android/data/com.skyworth.superservice/files/skyworth/SkySuperService.apk"
-    serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI.apk"
     updateMode="manual"
+	launchMode="manual"
     versionCode="1.0"
 ></Config>
 
