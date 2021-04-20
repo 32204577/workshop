@@ -23,7 +23,7 @@
 ></Config>
 
 <Config 
-    configName="SkySuperService"
+    configName="SkySuperService_IZZI"
     packageName="com.skyworth.superservice"
     filePath="/storage/emulated/0/Android/data/com.skyworth.superservice/files/skyworth/SkySuperService.apk"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI.apk"
