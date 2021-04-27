@@ -4,9 +4,29 @@
 
 <Config 
     configName="SkyServerConfig"
-    packageName="null"
-    filePath="/storage/emulated/0/Android/data/com.skyworth.smallclient/files/skyworth/SkyServerConfig.xml"
+    packageName="com.skyworth.null"
+    filePath="skyworth/SkyServerConfig.xml"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkyServerConfig.xml"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="1.0"
+></Config>
+
+<Config 
+    configName="SkySuperService_IZZI"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="1.0"
+></Config>
+
+<Config 
+    configName="SkyOtherApp_IZZI"
+    packageName="com.skyworth.xxxx"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyPanelLedControl_IZZI.apk"
     updateMode="auto"
     launchMode="manual"
     versionCode="1.0"
@@ -15,29 +35,9 @@
 <Config 
     configName="SkySmallClient"
     packageName="com.skyworth.smallclient"
-    filePath="/storage/emulated/0/Android/data/com.skyworth.smallclient/files/skyworth/SkySmallClient.apk"
+    filePath="skyworth/update.apk"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySmallClient.apk"
-    updateMode="manual"
-    launchMode="manual"
-    versionCode="1.0"
-></Config>
-
-<Config 
-    configName="SkySuperService_IZZI"
-    packageName="com.skyworth.superservice"
-    filePath="/storage/emulated/0/Android/data/com.skyworth.superservice/files/skyworth/SkySuperService.apk"
-    serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI.apk"
-    updateMode="manual"
-    launchMode="manual"
-    versionCode="1.0"
-></Config>
-
-<Config 
-    configName="SkyOtherApp"
-    packageName="com.skyworth.xxxx"
-    filePath="/storage/emulated/0/Android/data/com.skyworth.superservice/files/skyworth/SkyOtherApp.apk"
-    serverUrl="https://github.com/32204577/workshop/raw/main/SkyOtherApp.apk"
-    updateMode="manual"
+    updateMode="auto"
     launchMode="manual"
     versionCode="1.0"
 ></Config>
