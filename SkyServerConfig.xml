@@ -33,6 +33,16 @@
 ></Config>
 
 <Config 
+    configName="SkyOtherApp_IZZI"
+    packageName="com.skyworthdigital.aidlservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAidlService.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="1.1"
+></Config>
+
+<Config 
     configName="SkySmallClient"
     packageName="com.skyworth.smallclient"
     filePath="skyworth/update.apk"
