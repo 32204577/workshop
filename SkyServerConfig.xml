@@ -24,16 +24,6 @@
 
 <Config 
     configName="SkyOtherApp_IZZI"
-    packageName="com.skyworthdigital.frontpanelledsservice"
-    filePath="skyworth/update.apk"
-    serverUrl="https://github.com/32204577/workshop/raw/main/SkyPanelLedControl_IZZI.apk"
-    updateMode="auto"
-    launchMode="manual"
-    versionCode="1.0"
-></Config>
-
-<Config 
-    configName="SkyOtherApp_IZZI"
     packageName="com.skyworthdigital.aidlservice"
     filePath="skyworth/update.apk"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkyAidlService.apk"
