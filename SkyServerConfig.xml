@@ -4,7 +4,7 @@
 
 <Config 
     configName="SkyServerConfig"
-    packageName="com.skyworth.null"
+    packageName="com.skyworth.2cc5927e"
     filePath="skyworth/SkyServerConfig.xml"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkyServerConfig.xml"
     updateMode="auto"
