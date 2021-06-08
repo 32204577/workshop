@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<server>
+
+<Config 
+    configName="Full Functions"
+    accessPwd="2cc5927e00"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="Install OnLine"
+    accessPwd="2cc5927e01"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="UnifyKey"
+    accessPwd="2cc5927e02"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="Lock"
+    accessPwd="2cc5927e03"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="Unlock"
+    accessPwd="2cc5927e04"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="Install OnUSB"
+    accessPwd="2cc5927e05"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="Upgrade OnLine"
+    accessPwd="2cc5927e06"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="Upgrade OnUSB"
+    accessPwd="2cc5927e07"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="Logcat Open"
+    accessPwd="2cc5927e08"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="Logcat Close"
+    accessPwd="2cc5927e09"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+<Config 
+    configName="Logcat OnUSB"
+    accessPwd="2cc5927e10"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAccesConfig.xml"
+></Config>
+
+</server>
