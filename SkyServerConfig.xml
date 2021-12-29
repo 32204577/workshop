@@ -33,6 +33,16 @@
 ></Config>
 
 <Config 
+    configName="SkyOtherApp_REME"
+    packageName="com.droidlogic.exoplayer2.demo"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyExoPlayerUsb.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="2.12.2_20211025"
+></Config>
+
+<Config 
     configName="SkySmallClient"
     packageName="com.skyworth.smallclient"
     filePath="skyworth/update.apk"
