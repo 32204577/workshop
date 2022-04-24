@@ -10,7 +10,7 @@
     updateMode="auto"
     launchMode="manual"
     versionCode="1.0"
-    serialRange="0000000000-FFFFFFFFFF"
+    serialRange="00000000-FFFFFFFF"
 ></Config>
 
 <Config 
@@ -21,7 +21,7 @@
     updateMode="auto"
     launchMode="manual"
     versionCode="1.0"
-    serialRange="0000000000-FFFFFFFFFF"
+    serialRange="00000000-FFFFFFFF"
 ></Config>
 
 <Config 
@@ -54,7 +54,7 @@
     updateMode="auto"
     launchMode="manual"
     versionCode="1.0"
-    serialRange="0000000000-FFFFFFFFFF"
+    serialRange="00000000-FFFFFFFF"
 ></Config>
 
 </server>
