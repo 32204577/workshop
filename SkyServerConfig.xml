@@ -64,7 +64,7 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySmallClient.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="1.0"
+    versionCode="1.1"
     serialRange="00000000-FFFFFFFF"
 ></Config>
 
