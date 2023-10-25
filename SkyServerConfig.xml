@@ -40,7 +40,7 @@
     packageName="com.skyworthdigital.aidlservice"
     filePath="skyworth/update.apk"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkyAidlService_IZZI_OTT_31.apk"
-    updateMode="manual"
+    updateMode="auto"
     launchMode="manual"
     versionCode="1.2"
     serialRange="00000000-FFFFFFFF"
