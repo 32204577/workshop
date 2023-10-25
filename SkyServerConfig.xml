@@ -20,7 +20,18 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="1.1"
+    versionCode="1.6"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
+    configName="SkySuperService_IZZI_OTT"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI_OTT.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="1.6"
     serialRange="00000000-FFFFFFFF"
 ></Config>
 
@@ -36,10 +47,21 @@
 ></Config>
 
 <Config 
+    configName="SkySuperService_REME"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_REME.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="1.6"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
     configName="SkyOtherApp_IZZI_OTT_31"
     packageName="com.skyworthdigital.aidlservice"
     filePath="skyworth/update.apk"
-    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAidlService_IZZI_OTT_31.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAidlService_IZZI_OTT.apk"
     updateMode="auto"
     launchMode="manual"
     versionCode="1.2"
@@ -64,7 +86,7 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySmallClient.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="1.1"
+    versionCode="1.6"
     serialRange="00000000-FFFFFFFF"
 ></Config>
 
