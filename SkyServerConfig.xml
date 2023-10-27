@@ -64,7 +64,7 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkyAidlService_IZZI_OTT.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="1.3"
+    versionCode="1.4"
     serialRange="00000000-FFFFFFFF"
 ></Config>
 
