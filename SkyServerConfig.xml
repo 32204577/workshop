@@ -20,8 +20,8 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="1.6"
-    serialRange="00000000-FFFFFFFF"
+    versionCode="1.8"
+    serialRange="HY400222080100038-800149HY40A0000013-IZZIHP46E000001"
 ></Config>
 
 <Config 
