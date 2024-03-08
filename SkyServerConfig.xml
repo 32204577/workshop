@@ -14,7 +14,7 @@
 ></Config>
 
 <Config 
-    configName="SkySuperService_IZZI_31"
+    configName="SkySuperService_IZZI"
     packageName="com.skyworth.superservice"
     filePath="skyworth/update.apk"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI.apk"
