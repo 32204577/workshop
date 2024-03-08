@@ -14,14 +14,14 @@
 ></Config>
 
 <Config 
-    configName="SkySuperService_IZZI"
+    configName="SkySuperService_IZZI_31"
     packageName="com.skyworth.superservice"
     filePath="skyworth/update.apk"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI.apk"
     updateMode="auto"
     launchMode="manual"
     versionCode="1.8"
-    serialRange="HY400222080100038-800149HY40A0000013-HY400222080100077"
+    serialRange="HY400222080100038-800149HY40A0000013-HY400222080100077-HY400220060037969"
 ></Config>
 
 <Config 
