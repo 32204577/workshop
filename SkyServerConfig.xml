@@ -21,7 +21,7 @@
     updateMode="auto"
     launchMode="manual"
     versionCode="1.8"
-    serialRange="00000000-FFFFFFFF"
+    serialRange="00000000-00000000"
 ></Config>
 
 <Config 
