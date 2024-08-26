@@ -80,7 +80,7 @@
 ></Config>
 
 <Config 
-    configName="SkyOtherApp_MEGA_35"
+    configName="SkyOtherApp_MEGA_34"
     packageName="com.droidlogic.exoplayer2.demo"
     filePath="skyworth/update.apk"
     serverUrl="https://github.com/32204577/workshop/raw/main/SkyExoPlayerUsb.apk"
