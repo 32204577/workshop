@@ -80,6 +80,17 @@
 ></Config>
 
 <Config 
+    configName="SkyOtherApp_MEGA_35"
+    packageName="com.droidlogic.exoplayer2.demo"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkyExoPlayerUsb.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="2.12.2_20211025"
+    serialRange="HP46A21490000063-HP46A21490000063-HP46A21490000063"
+></Config>
+
+<Config 
     configName="SkySmallClient"
     packageName="com.skyworth.smallclient"
     filePath="skyworth/update.apk"
