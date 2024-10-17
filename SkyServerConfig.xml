@@ -58,6 +58,17 @@
 ></Config>
 
 <Config 
+    configName="SkySuperService_MEGA"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_MEGA.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="2.2"
+    serialRange="HP46A21490000063-HP46A21490000063-HP46A21490000063"
+></Config>
+
+<Config 
     configName="SkyOtherApp_IZZI_OTT_31"
     packageName="com.skyworthdigital.aidlservice"
     filePath="skyworth/update.apk"
