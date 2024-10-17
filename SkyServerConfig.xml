@@ -20,8 +20,8 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="2.1"
-    serialRange="00000000-00000000"
+    versionCode="2.2"
+    serialRange="00000000-FFFFFFFF"
 ></Config>
 
 <Config 
@@ -31,7 +31,7 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_IZZI_OTT.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="1.6"
+    versionCode="2.2"
     serialRange="00000000-FFFFFFFF"
 ></Config>
 
@@ -42,7 +42,7 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_MALA.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="1.6"
+    versionCode="2.2"
     serialRange="00000000-FFFFFFFF"
 ></Config>
 
@@ -53,7 +53,7 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySuperService_REME.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="1.6"
+    versionCode="2.2"
     serialRange="00000000-FFFFFFFF"
 ></Config>
 
@@ -76,7 +76,7 @@
     updateMode="auto"
     launchMode="manual"
     versionCode="1.4"
-    serialRange="00000000-FFFFFFFF"
+    serialRange="00000000-00000000"
 ></Config>
 
 <Config 
@@ -108,7 +108,7 @@
     serverUrl="https://github.com/32204577/workshop/raw/main/SkySmallClient.apk"
     updateMode="auto"
     launchMode="manual"
-    versionCode="1.6"
+    versionCode="2.2"
     serialRange="00000000-FFFFFFFF"
 ></Config>
 
