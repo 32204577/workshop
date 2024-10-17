@@ -65,7 +65,7 @@
     updateMode="auto"
     launchMode="manual"
     versionCode="2.2"
-    serialRange="HP46A21490000063-HP46A21490000063"
+    serialRange="00000000-FFFFFFFF"
 ></Config>
 
 <Config 
