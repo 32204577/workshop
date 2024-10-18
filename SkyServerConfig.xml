@@ -69,28 +69,6 @@
 ></Config>
 
 <Config 
-    configName="SkyOtherApp_IZZI_OTT_31"
-    packageName="com.skyworthdigital.aidlservice"
-    filePath="skyworth/update.apk"
-    serverUrl="https://github.com/32204577/workshop/raw/main/SkyAidlService_IZZI_OTT.apk"
-    updateMode="auto"
-    launchMode="manual"
-    versionCode="1.4"
-    serialRange="00000000-00000000"
-></Config>
-
-<Config 
-    configName="SkyOtherApp_REME"
-    packageName="com.droidlogic.exoplayer2.demo"
-    filePath="skyworth/update.apk"
-    serverUrl="https://github.com/32204577/workshop/raw/main/SkyExoPlayerUsb.apk"
-    updateMode="manual"
-    launchMode="manual"
-    versionCode="2.12.2_20211025"
-    serialRange="210924552105100073-210924552105100073-210924552105100073"
-></Config>
-
-<Config 
     configName="SkyOtherApp_MEGA_34"
     packageName="com.droidlogic.exoplayer2.demo"
     filePath="skyworth/update.apk"
