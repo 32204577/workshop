@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class Main {
 	public static void main(String[] args) {
-        System.out.println("Hello World!++++");
+        System.out.println("Java program started.");
 		
 		String filePath = "test.txt"; // 文件路径
         String content = "This is a test to create a file.\n"; // 要写入的内容
@@ -17,14 +17,23 @@ public class Main {
 			System.out.println("Failed to write file.");
         }
 		
+		int count = 0;
+		
 		while (true) {
 			try {
-				 System.out.println("Delay 2 seconds.");
-				 Thread.sleep(2000); // 延时2秒（2000毫秒）				            
+				count++;
+				System.out.println("Delay 2 seconds.");
+				Thread.sleep(2000); // 延时2秒（2000毫秒）				            
 			} catch (InterruptedException e) {
-			 e.printStackTrace();										         
+				e.printStackTrace();										         
+			}
+			
+			if (count > 5) {
+				break;
 			}
 		}
+		
+		System.out.println("Java program exit.");
     }
 }
 
