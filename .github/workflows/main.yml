@@ -36,10 +36,10 @@ jobs:
           echo test, and deploy your project.
 
       # Runs a java program using the java tool
-      - name: Set up Java
-      - uses: actions/setup-java@v1
-        with: 
-          java-version: 11
+      #- name: Set up Java
+      #- uses: actions/setup-java@v1
+      #  with: 
+      #    java-version: 11
       
       #- name: Build and Run
       #  run: |
