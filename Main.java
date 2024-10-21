@@ -4,15 +4,17 @@ import java.io.IOException;
 
 public class Main {
 	public static void main(String[] args) {
-        System.out.println("Hello World!!!");
+        System.out.println("Hello World!++++");
 		
 		String filePath = "test.txt"; // 文件路径
         String content = "This is a test to create a file.\n"; // 要写入的内容
 		
 		try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
             writer.write(content);
+			System.out.println("Write file finshed!++++");
         } catch (IOException e) {
             e.printStackTrace();
+			System.out.println("Failed to write file.");
         }
 		
 		while (true) {
