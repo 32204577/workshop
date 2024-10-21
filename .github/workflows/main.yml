@@ -48,6 +48,14 @@ jobs:
       - name: Compile
         run: javac Main.java
  
-      - name: Run
+      - name: Run Program
         run: java Main
+
+      - name: Commit and push file
+        run: |
+          git config --global user.email "32204577@qq.com"
+          git config --global user.name "32204577"
+          git add test.txt
+          git commit -m "Create test.txt and commit automatically"
+          git push
         
