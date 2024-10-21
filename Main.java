@@ -1,13 +1,28 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
 public class Main {
-    public static void main(String[] args) {
+	public static void main(String[] args) {
         System.out.println("Hello World!!!");
-         while (true) {
-             try {
-                 System.out.println("Delay 2 seconds.");
-                 Thread.sleep(2000); // 延时2秒（2000毫秒）                                         
-             } catch (InterruptedException e) {
-                 e.printStackTrace();
-             }
-         }
+		
+		String filePath = "test.txt"; // 文件路径
+        String content = "This is a test to create a file.\n"; // 要写入的内容
+		
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
+            writer.write(content);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+		
+		while (true) {
+			try {
+				 System.out.println("Delay 2 seconds.");
+				 Thread.sleep(2000); // 延时2秒（2000毫秒）				            
+			} catch (InterruptedException e) {
+			 e.printStackTrace();										         
+			}
+		}
     }
 }
+
