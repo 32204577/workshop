@@ -46,8 +46,8 @@ jobs:
           node-version: 16
         
       - name: Compile
-        run: javac ./Main.java
+        run: javac Main.java
  
       - name: Run
-        run: java -cp ./Main
+        run: java -cp Main
         
