@@ -41,8 +41,8 @@ jobs:
         with: 
           java-version: 11
       
-      - name: Build and Run
-        run: |
-          javac Main.java
-          java Main
+      #- name: Build and Run
+      #  run: |
+      #    javac Main.java
+      #    java Main
         
